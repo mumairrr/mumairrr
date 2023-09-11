@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umeir Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Python, Django and MongoDB**
+- 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **Html, CSS, JavaScript, SQL and PHP**
 
