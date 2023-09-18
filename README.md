@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umeir Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Umeir Muhammad Shahzad <small>UMS</small></h1>
 <h3 align="center">A passionate Web Developer from Kenya</h3>
 
 - 🌱 I’m currently learning **ReactJs**
