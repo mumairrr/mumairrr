@@ -6,7 +6,7 @@
 ### 🚀 Currently Exploring:
 - 📊 **Data Analysis** with `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 - 🧠 **Machine Learning** with `Scikit-learn`
-- 📁 Building end-to-end projects like **Netflix Content Classifier** & **Recommendation Systems**
+- 📁 Building end-to-end data projects to explore real-world datasets and analytical techniques
 - 🌐 Still love **Web Technologies** — HTML, CSS, JS, and PHP
 
 ---
